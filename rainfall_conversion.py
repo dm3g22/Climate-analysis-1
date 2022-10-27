@@ -6,6 +6,6 @@ def inches _to mm(inches):
 mm= inches* 25.4
 return mm
 
-#TODO dm3g22 : add inches to m
-#Todo: Add function inches_to cm
+#TODO: Add inches to m
+#Todo: Add inches_to cm
 
